@@ -37,7 +37,8 @@ number_people = 5
 max_time_to_sleep = 2 #in secondi
 
 #Dati del form
-form_link = 'https://docs.google.com/forms/d/e/1FAIpQLScVFJB4a3f-' #Per questione di sicurezza il link non e' completo
+#Il form seguente e' scaduto percio' pubblicando il link non si arreca alcun danno.
+form_link = 'https://docs.google.com/forms/d/e/1FAIpQLScVFJB4a3f-PsRCp78NlHIcpP1VR0vYr5ig7u5N0sR_ho3UcA/formResponse'
 
 nome_form = 'entry.1161570529'
 cognome_form = 'entry.346358819'
